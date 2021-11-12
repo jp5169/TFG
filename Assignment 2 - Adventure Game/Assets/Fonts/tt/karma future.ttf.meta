@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0a7dd518300c23a4d8efbc643f1a5633
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Karma
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 645e6b4c713319545b14027b271e16f1, type: 3}
+  - {fileID: 12800000, guid: 4602125d24b6aa149acdc55cbb67a955, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
